@@ -3,5 +3,6 @@ public class Hello {
 		System.out.println("Charles.Lee");
 		System.out.println("Hello World!");
 		System.out.println("Hello World2!");
+		System.out.println("second modified 1");
 	}
 }
